@@ -48,20 +48,17 @@ Have expirience in writing test documentation like:
 
 ### Work History
 Period            | Position 
-------------------|:-----------------------------------: 
-2022-05 – till now| _Junior QA Engineer_ **(Twistellar)** 
-                  |Working with project documentation. Performing requirements testing. Performing functional testing of applications developed on Salesforce platform on different stages of development. Communicating with Dev team. Provide possible solutions for found issues. Performing testing of UI, API (Postman). Have knowledge of JIRA ticketing tool. Creating testing documentation  on Confluence. 
+------------------|:-----------------------------------------------------------:
+2022-05 – till now| _Junior QA Engineer_ **(Twistellar)**
 2020-01 – 2022-05 | _Service Desk Engineer_ **(EPAM Systems Inc, Minsk)**
-                  |Worked with customers. Assisted them with different issues from simple reinstalling of programs remotely till changing system configurations in comparison with user’s requirements. Troubleshoot issues with Office. Troubleshoot issues related to applications via Cloud services. Worked with such systems as Azure, Active Directory, AWS, Confluence, Graphana, Jenkins, Salesforce. Worked with different alerting systems, especially with Nagios. Worked with different ticketing tools as Jira and ServiceNow. Performed tasks in WorkFusion. Also performed onboarding activities (projects, tasks). Communicated with client and L2/L3 teams. Performed project coordination and tech leading activities. Worked with instructions (adjusting, creating from scratch).
 2019-10 – 2020-01 | _1st line support specialist_ **(EPAM Systems Inc, Minsk)**
-                  |Performed functions related to teaching artificial intelligence. (Working with huge amount of docs, tagging, validating)
 
 
 ### Education
-2014-09 - 2019-06 | **Bachelor: Romano-Germanic Philology (English, German)**
+* 2014-09 - 2019-06 | **Bachelor: Romano-Germanic Philology (English, German)**
                   | _MSU A.A. Kuleshov – Belarus, Mogilev_
                   | Faculty of Foreign Languages
-2019-09 – 2020-06 | **Master: Intercultural communication**
+* 2019-09 – 2020-06 | **Master: Intercultural communication**
                   | _MSLU – Belarus, Minsk_
                   |Faculty of intercultural communication
 
