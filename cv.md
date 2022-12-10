@@ -65,4 +65,6 @@ Period            | Position
 
 ### English
 **C1 Level**
+
+
 Level of speeking language I assume as pretty high because my education is related to languages and thanks to my previous working expirience I had much practice of it.
