@@ -60,7 +60,7 @@ Period            | Position
                   | Faculty of Foreign Languages
 * 2019-09 – 2020-06 | **Master: Intercultural communication**
                   | _MSLU – Belarus, Minsk_
-                  |Faculty of intercultural communication
+                  | Faculty of intercultural communication
 
 
 ### English
